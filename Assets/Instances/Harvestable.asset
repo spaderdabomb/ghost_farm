@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 499aa054f21e47f4283bd0cb5a98091d, type: 3}
+  m_Name: Harvestable
+  m_EditorClassIdentifier: 
+  tiles:
+  - {fileID: 11400000, guid: a0f730f740dab7346b28953d05791f7d, type: 2}
+  - {fileID: 11400000, guid: c57b1da6d9eba0f42922643fb0c81227, type: 2}
+  - {fileID: 11400000, guid: eb69f2e9feafb9742a4f61acefc66dfe, type: 2}
+  - {fileID: 11400000, guid: 39be6daa939b02146b2dd57aba8fe399, type: 2}
+  - {fileID: 11400000, guid: ee996d5693692cc4abdc49005b7e84d0, type: 2}
+  - {fileID: 11400000, guid: dc2044716b46b4644acf31e40574a686, type: 2}
+  - {fileID: 11400000, guid: 59fb28a2ecf9a5647984db1d3887cb7c, type: 2}
+  plowable: 0
+  plantable: 0
+  harvestable: 1
